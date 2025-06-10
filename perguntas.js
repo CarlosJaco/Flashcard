@@ -1,7 +1,7 @@
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'Subnautca',
+    'Que ano Subnautca foi lançado',
+    '16 de dezembro de 2014'
 )
 
 criaCartao(
