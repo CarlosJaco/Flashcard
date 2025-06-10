@@ -1,23 +1,33 @@
 criaCartao(
-    'Subnautca',
+    'Subnautica',
     'Que ano Subnautca foi lançado',
     '16 de dezembro de 2014'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'Subnautica',
+    'que ano foi lancado subnautica below zero',
+    '30 de janeiro de 2019'
 )
 
 criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+    'Subnautica',
+    'quantos biomas tem o subnautica',
+    '15 biomas principais e 2 ilhas'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'Subnautica',
+    'qual o unico bioma do subnautica que aparece nos dois jogos',
+    'zona morta'
+)
+criaCartao(
+    'subnautica'
+    'quantos meios de locomoção existem no subnautica'
+    '4 sendo eles Seamoth,Cyclops,Prawn Suit,Neptune'
+)
+criaCartao(
+    'subnautica'
+    'qual o meio de locomoção que também é conhecido como traje camarão'
+    'Prawn Suit'
 )
