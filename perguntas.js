@@ -20,14 +20,4 @@ criaCartao(
     'Subnautica',
     'qual o unico bioma do subnautica que aparece nos dois jogos',
     'zona morta'
-)
-criaCartao(
-    'subnautica'
-    'quantos meios de locomoção existem no subnautica'
-    '4 sendo eles Seamoth,Cyclops,Prawn Suit,Neptune'
-)
-criaCartao(
-    'subnautica'
-    'qual o meio de locomoção que também é conhecido como traje camarão'
-    'Prawn Suit'
-)
+    )
